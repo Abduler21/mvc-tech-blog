@@ -9,7 +9,7 @@ SCREENSHOT OF PAGE:
 
 
 ## Description
-A Tech Blog where you can create a username and make post to the community.  After logining in, you will see all the post you've made and see an option to make a new post.  On the homepage, you will see all the post from the community where you can make comments on and if needed, add new posts.  You can also edit or delete previous post incase of any errors.
+A Tech Blog where you can create a username and make post to the community.  After logining in, you will see all the post you've made and see an option to make a new post.  On the homepage, you will see all the post from the community.
 
 
 ***
